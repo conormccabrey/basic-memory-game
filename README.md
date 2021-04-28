@@ -1,1 +1,2 @@
-# basic-memory-game
+# Memory-Game
+Simple memory game developed in Corona SDK
